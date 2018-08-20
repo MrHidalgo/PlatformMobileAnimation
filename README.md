@@ -1,0 +1,1 @@
+#### Platform mobile animation use draw and scale opt.
